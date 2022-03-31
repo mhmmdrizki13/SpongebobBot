@@ -1,7 +1,7 @@
 {
-  "name": "stikerinbot",
+  "name": "SpongebobBot MD",
   "version": "1.1.2",
-  "description": "WhatsApp Bot Ringan",
+  "description": "Oleh Owner ku ganteng",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ariffb25/stikerinbot.git"
+    "url": "git+https://github.com/mhmmdrizki13/SpongebobBot.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ariffb",
+  "author": "Rizki",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ariffb25/stikerinbot/issues"
